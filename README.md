@@ -1,6 +1,9 @@
 # Project-SPCT
 This is a project to make school computers usable for anything other than school. It was made by Aadit Sharma and Radhesh Patel
-Project-SPCT is completely **open source**, meaning anyone can collaborate. 
+Project-SPCT is completely **open source**, meaning anyone can collaborate. Below are instructions on how to collaborate. 
+# Support/Collaboration Inquiries
+If you need support for Project-SPCT, or if you want to collaborate, you can email project-spct@outlook.com 
+If you want to report a bug, you can open an issue in the GitHub Issues tab. 
 # Project-SPCT in action
 <p>Watch in 1.75 or 2x speed to remove the loading time of slow, school Chromebooks</p>
 
