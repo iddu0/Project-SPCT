@@ -1,8 +1,0 @@
-How to use .rf Config file
-------------------------------------------
-Step 1:
-Open Rammerhead Browser. If ths is the first time opening, then click on the rh://settings button. If not, then type rh://settings in the RAMMERHEAD browser URL space
-Step 2:
-Scroll all the way down until you see Import rammerfile. Click it and navigate to the directory where you have the .rf file, and select it.
-Step 3: 
-Rammerhead will restart, and you are now ready to use the config file!
