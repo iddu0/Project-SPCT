@@ -1,8 +1,6 @@
 # Project-SPCT
-This is a project to make school computers usable for anything other than school. It was made by iddu01 and djsnorlax6707
+This project is to make school computers usable for anything other than school. It was made by iddu01 and djsnorlax6707
 Project-SPCT is completely **open source**, meaning anyone can collaborate. Below are instructions on how to collaborate. 
-# Notice:
-Project SPCT Premium is going to be replacing Project-SPCT Basic and Lite as Project-SPCT.
 # How to use
 Check out the Wiki!
 # Support/Collaboration Inquiries
